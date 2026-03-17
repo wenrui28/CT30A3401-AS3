@@ -142,5 +142,3 @@ The submission includes:
 ## Author
 
 Wenrui Xing
-
-如果你要，我也可以顺手再给你一个 **更短、更像学生作业风格** 的 README 版本。
