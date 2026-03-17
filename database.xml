@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notebook created="2026-03-17T12:32:00" version="1.1">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <topic name="Distributed Systems" created_at="2025-03-17T10:00:00" updated_at="2026-03-18T03:21:32">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <notes>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <note id="1" source="manual">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2025-03-17T10:00:00</timestamp>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <text>RPC lets a client call a function on a remote server.</text>
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      
+      
+      
+      
+      
+      </note>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <note id="2" source="wikipedia">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2025-03-17T10:05:00</timestamp>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <text>Wikipedia result for 'Remote procedure call': Remote procedure call. Protocol for distributed communication.</text>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <search_term>Remote procedure call</search_term>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>Remote procedure call</title>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <description>Protocol for distributed communication.</description>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <url>https://en.wikipedia.org/wiki/Remote_procedure_call</url>
+        
+        
+        
+        
+        
+        
+        
+      
+      
+      
+      
+      
+      
+      
+      </note>
+      
+      
+      
+      
+      
+      
+      
+    
+      
+      
+      
+      
+      
+      
+      <note id="3" source="manual">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2026-03-18T02:31:19</timestamp>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <text>RPC lets a client call a server function remotely.</text>
+        
+        
+        
+        
+        
+        
+      
+      
+      
+      
+      
+      
+      </note>
+      
+      
+      
+      
+      
+      
+    
+      
+      
+      
+      
+      
+      <note id="4" source="manual">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2026-03-18T02:31:40</timestamp>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <text>If the topic already exists, the note is appended.</text>
+        
+        
+        
+        
+        
+      
+      
+      
+      
+      
+      </note>
+      
+      
+      
+      
+      
+    
+      
+      
+      
+      
+      <note id="5" source="wikipedia">
+        
+        
+        
+        
+        
+        
+        
+        
+        <timestamp>2026-03-18T02:42:36</timestamp>
+        
+        
+        
+        
+        
+        
+        
+        
+        <text>Wikipedia result for 'XML-RPC': XML-RPC.</text>
+        
+        
+        
+        
+        
+        
+        
+        
+        <search_term>XML-RPC</search_term>
+        
+        
+        
+        
+        
+        
+        
+        
+        <title>XML-RPC</title>
+        
+        
+        
+        
+        
+        
+        
+        
+        <url>https://en.wikipedia.org/wiki/XML-RPC</url>
+        
+        
+        
+        
+      
+      
+      
+      
+      </note>
+      
+      
+      
+      
+    
+      
+      
+      
+      <note id="6" source="manual">
+        
+        
+        
+        
+        
+        
+        <timestamp>2026-03-18T03:09:10</timestamp>
+        
+        
+        
+        
+        
+        
+        <text>RPC lets a clinet call a server function remotely.</text>
+        
+        
+        
+      
+      
+      
+      </note>
+      
+      
+      
+    
+      
+      
+      <note id="7" source="manual">
+        
+        
+        
+        
+        <timestamp>2026-03-18T03:18:30</timestamp>
+        
+        
+        
+        
+        <text>RPC lets a clinet call a server function remotely.</text>
+        
+        
+      
+      
+      </note>
+      
+      
+    
+      
+      <note id="8" source="manual">
+        
+        
+        <timestamp>2026-03-18T03:19:40</timestamp>
+        
+        
+        <text>If the topic already exists, the note is appended.</text>
+        
+      
+      </note>
+      
+    
+      <note id="9" source="wikipedia">
+        <timestamp>2026-03-18T03:21:32</timestamp>
+        <text>Wikipedia result for 'XML-RPC': XML-RPC.</text>
+        <search_term>XML-RPC</search_term>
+        <title>XML-RPC</title>
+        <url>https://en.wikipedia.org/wiki/XML-RPC</url>
+      </note>
+    </notes>
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  </topic>
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+</notebook>
