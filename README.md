@@ -127,16 +127,10 @@ This project covers the following assignment requirements:
 
 ## Submission
 
-The submission includes:
+This submission includes:
 
-* This GitHub repository
-* A video demonstration showing:
-
-  * code execution
-  * code structure
-  * how RPC calls are made
-  * how failures are handled
-
+- GitHub repository: https://github.com/wenrui28/CT30A3401-AS3
+- Video demonstration: https://youtu.be/80IsNmbriZM
 ---
 
 ## Author
